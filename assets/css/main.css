@@ -187,7 +187,7 @@
 	/* Set your background with this */
 
 		/*background: #348cb2 url("images/newbg.jpg") bottom left;*/
-		background: #348cb2 url(images/newbg.jpg) bottom left;
+		background: #348cb2 url("https://benplus1.github.io/assets/css/images/newbg.jpg") bottom left;
 
 		background-repeat: repeat-x;
 		height: 100%;
