@@ -314,7 +314,7 @@
 		-ms-animation: overlay 1.5s 1.5s forwards;
 		animation: overlay 1.5s 1.5s forwards;
 		background-attachment: fixed, fixed;
-		background-image: url("https://benplus1.github.io/assets/css/images/newbg.png"), url("https://benplus1.github.io/assets/css/images/newbg.svg");
+		background-image: url("https://benplus1.github.io/assets/css/images/ben.png"), url("https://benplus1.github.io/assets/css/images/ben.svg");
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
